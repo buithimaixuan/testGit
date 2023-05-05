@@ -2,4 +2,4 @@
 
 bubble sort
 merge sort
-insertion conflict commit 2 sort
+insertion conflict commit 3 sort
